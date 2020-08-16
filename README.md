@@ -1,4 +1,4 @@
-Sorah is a Ruby committer and a Rubyist, Rustacean wannabe. Currently working as a SWE of Developer Experiences and corporate IT at [Cookpad](https://cookpad.com/uk)
+Sorah is a Rubyist, or a Rustacean wannabe. Currently working as a SWE of Developer Experiences and corporate IT at [Cookpad](https://cookpad.com/uk)
 
 https://sorah.jp/
 
