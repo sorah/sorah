@@ -1,4 +1,4 @@
-Sorah is a Rubyist and a Rustacean. Currently working as a SWE of Site Reliability and Corporate Engineering (IT) at [Cookpad](https://cookpad.com/uk).
+Sorah is a Rubyist and a Rustacean. Currently working as a Princpal Software Engineer at [IVRy](https://github.com/ivry-inc).
 
 - 🔭 Area / Expertises: Systems, Cloud Infrastructure (AWS), IP Network, Security, IT / Corporate Engineering
 - 🌱 Interest: Systems, Developer/Employee Experiences, BGP Network, Digital Identity, Authentication and Authorization
